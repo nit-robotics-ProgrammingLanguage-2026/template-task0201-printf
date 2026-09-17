@@ -1,4 +1,4 @@
-# template-task0201-printf
+# 課題0201 最初のプログラム(Hello world)
 「Hello world(行末で改行しない)と表示するC言語プログラムを作成し，本システムで提出せよ．
 提出するにはターミルで
  git add .
